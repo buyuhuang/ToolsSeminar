@@ -1,0 +1,8 @@
+\frametitle{\texttt {logging}}
+\begin{itemize}
+\item Get \verb"logger" instance: \verb"getLogger", root logger
+\item Log formatter: \verb"Formatter", \verb"setFormatter"
+\item Log handlers: \verb"FileHandler", \verb"StreamHandler"
+\item Manipulate handlers: \verb"addHandler", \verb"removeHandler"
+\item Several levels: \verb"debug", \verb"info", \verb"warning", \verb"error", \verb"critical"
+\end{itemize}

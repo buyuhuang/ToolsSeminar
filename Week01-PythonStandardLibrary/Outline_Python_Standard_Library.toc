@@ -1,0 +1,12 @@
+\beamer@sectionintoc {1}{datetime}{3}{0}{1}
+\beamer@sectionintoc {2}{math}{6}{0}{2}
+\beamer@sectionintoc {3}{random}{8}{0}{3}
+\beamer@sectionintoc {4}{pickle}{9}{0}{4}
+\beamer@sectionintoc {5}{json}{10}{0}{5}
+\beamer@sectionintoc {6}{collections}{11}{0}{6}
+\beamer@sectionintoc {7}{re}{14}{0}{7}
+\beamer@sectionintoc {8}{itertools}{16}{0}{8}
+\beamer@sectionintoc {9}{\texttt {abc}}{17}{0}{9}
+\beamer@sectionintoc {10}{\texttt {decimal} and \texttt {fractions}}{18}{0}{10}
+\beamer@sectionintoc {11}{\texttt {argparse}}{19}{0}{11}
+\beamer@sectionintoc {12}{\texttt {logging}}{20}{0}{12}

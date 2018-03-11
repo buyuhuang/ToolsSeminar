@@ -1,0 +1,35 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Brief introduction}{2}{section.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Resources}{2}{section.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Python Standard Library}{2}{section.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}datetime}{2}{subsection.3.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}math}{4}{subsection.3.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}random}{5}{subsection.3.3}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.4}serialization: pickle and json}{6}{subsection.3.4}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.1}pickle}{6}{subsubsection.3.4.1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsubsection}{\numberline {3.4.2}json}{7}{subsubsection.3.4.2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.5}collections}{7}{subsection.3.5}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.6}re}{9}{subsection.3.6}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.7}itertools}{11}{subsection.3.7}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.8}\texttt {abc}}{11}{subsection.3.8}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.9}\texttt {decimal} and \texttt {fractions}}{11}{subsection.3.9}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.10}\texttt {argparse}}{12}{subsection.3.10}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.11}\texttt {logging}}{12}{subsection.3.11}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Assignment}{12}{section.4}
