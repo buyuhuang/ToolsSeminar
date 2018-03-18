@@ -1,9 +1,0 @@
-\frametitle{Other components}
-\begin{enumerate}
-\item Colorbar: \verb"colorbar()"
-\item Legend: \verb"legend()"
-\item Grids: \verb"grid()"
-\item Aspect: \verb"set_aspect()"
-\item Viewport: \verb"set_xlim()" and \verb"set_ylim()"
-\item Title: \verb"title()"
-\end{enumerate}
